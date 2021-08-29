@@ -27,4 +27,3 @@ async function addItem(text) {
     }
 }
 
-addItem("Yurts in Big Sur, California")
